@@ -35,6 +35,8 @@ website:
 
 format:
   html:
-    theme: simplex
+    theme:
+      light: flatly
+      dark: solar
     css: styles.css
     from: markdown+emoji
