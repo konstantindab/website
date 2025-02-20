@@ -28,6 +28,8 @@ website:
         href: https://www.linkedin.com/in/konstantin-b%C3%B6hm-054876274/
       - icon: envelope-at-fill
         href: mailto:koni.boehm@gmail.com
+      - icon: rss
+        href: blog.xml
 
 
   page-footer:
