@@ -1,0 +1,85 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: true
+  pdf:
+    author: Konstantin Böhm
+    pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
+---
+
+::: {.print-only .contact-block}
+koni.boehm@gmail.com
+:::
+
+## Education
+
+**Primary school** <br> *“Grundschule Zedernstraße” Fürth/Vach* [*September 2006 --- July 2010*]{.cvdate}
+
+**Secondary High School -- Abitur** <br> *Helene-Lange-Gymnasium Fürth* [*September 2010 --- July 2018*]{.cvdate}
+
+**Bachelor of Science (Honours) -- Psychology** <br> *Queen Margaret University, Edinburgh* [*September 2020 --- July 2024*]{.cvdate}
+
+**Master of Science -- Brain Sciences** <br> *University of Glasgow* [*September 2024 --- Present*]{.cvdate}
+
+## Internships
+
+**Intern at Radio station -- “Hit Radio N1”**<br> *Funkhaus Nürnberg* [*July 2015*]{.cvdate}
+
+**Research Assistant -- Careena Center for Health**<br> *Gaborone, Botswana* [*July 2023 --- August 2023*]{.cvdate}
+
+## Volunteer activities
+
+**Volunteer -- Congregation of St. Matthews Church**<br> *Fürth/Vach* [*October 2015 --- February 2016*]{.cvdate}
+
+**Taekwon-Do Coach for children and adults**<br> *Taekwon-Do Vach* [*January 2016 --- September 2020*]{.cvdate}
+
+**German voluntary service “weltwärts” -- Eine Welt Netz NRW**<br> *Stepping Stones International in Mochudi, Botswana* [*August 2018 --- August 2019*]{.cvdate}
+
+**Co-founder and Vice president -- QMU Running and Cycling**<br> *Queen Margaret University, Edinburgh* [*March 2023 --- May 2024*]{.cvdate}
+
+**Student researcher -- Toy Box Diversity Lab**<br> *Queen Margaret University, Edinburgh* [*September 2023 --- July 2024*]{.cvdate}
+
+
+## Employment {style="page-break-before: always"}
+
+
+***Retail assistant -- „E-Center EDEKA Schuler“***<br> *Fürth* [*May 2017 -- September 2017*]{.cvdate}
+
+**Kitchen porter -- Michelin star awarded restaurant „L’impertinent“**<br> *Biarritz, France* -- Return to Germany due to Covid-19 [March 2020 -- April 2020]{.cvdate}
+
+**Logistics assistant -- IKEA Germany**<br> *Fürth* [*July 2020 -- September 2020*]{.cvdate}
+
+**Administrative assistant -- Covid-19 vaccination centre “Arbeitsgemeinschaft Notfallmedizin Fürth e. V.”**<br> *Fürth* [*June 2021 -- August 2021*]{.cvdate}
+
+**Student helper -- Open Days**<br> *Queen Margaret University, Edinburgh* [*September 2021 -- October 2023*]{.cvdate}
+
+**Games Master -- Escape Reality Ltd**<br> *Scotland* [*January 2023 -- Present*]{.cvdate}
+
+
+
+::: {.no-print}
+### Knowledge and interests
+
+#### Languages
+- English, (B2+/C1), IELTS 7.0
+- French (B1+) 
+
+#### Hobbies
+- Taekwon-Do
+- Playing the Saxophone
+- Road cycling and running
+- Cooking 
+
+#### Strengths
+- Physically and mentally resilient
+- Flexible, assertiveness, communication skills, critical thinking and intercultural competence
+- Awarded “Best Newcomer” Award QMU Running & Cycling 
+:::
+
+::: {.print-only}
+## References
+Available upon request
+:::

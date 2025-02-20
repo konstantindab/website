@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+card-style: "summary"
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/konstantin-b%C3%B6hm-054876274/
+    - icon: github
+      text: Github
+      href: https://github.com/konstantindab
+    - icon: envelope-at-fill
+      text: Email
+      href: mailto:koni.boehm@gmail.com
+---
+
+To be added.

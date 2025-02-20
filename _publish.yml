@@ -1,0 +1,3 @@
+- source: project
+  netlify:
+    - url: 'https://www.konstantinbohm.com'
