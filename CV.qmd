@@ -11,7 +11,11 @@ format-links: [pdf]
 ---
 
 ::: {.print-only}
+<<<<<<< HEAD
 [Konstantin Böhm](https://konstantindab.github.io/website/) <br>
+=======
+Konstantin Böhm <br>
+>>>>>>> 19de67e10b34d48b6cdd8113baeecf5ecbadce95
 +44 7578932359<br>
 [koni.boehm@gmail.com](mailto:koni.boehm@gmail.com) <br>
 [LinkedIn](https://www.linkedin.com/in/konstantindb/) | [GitHub](https://github.com/konstantindab)
