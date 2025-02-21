@@ -2,24 +2,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;700&display=swap');
 
 /* all formats */
-
 .cvdate {
   float: right;
-  font-style: italic
+  font-style: italic;
 }
 
 .print-only {
   display: none;
   /*color: aquamarine;*/
 }
-
-/* adapt stylesheet for print
-from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncomment-4081842 */
-
-/* for page-breaks use style spans
-  page-break-before: always;
-  page-break-after: always;
-*/
 
 @media print {
   @page {
@@ -28,17 +19,15 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
       @bottom-center {
         content: counter(page)
       }
-  }
+    }
+
   .no-print {
-      display: none;
-  }
-  .print-only {
-      display: block;
+    display: none;
   }
 
-  .contact-block {
-      margin-top: 0%;
-      text-align: center;
+  .print-only {
+    text-align: left;
+    display: block;
   }
 
   html {
@@ -46,44 +35,44 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
   }
 
   header {
-    margin-block-end: 5em;
+    margin-bottom: 3em;
   }
+
   header h1.title {
-      display: none;
+    font-size: 3em;
+    display: none;
   }
+
   header .author {
     font-size: 2em;
     font-weight: 900;
     color: black;
     text-align: center;
-    margin-block-end: 0em;
     margin-bottom: 0;
-    text-transform: capitalize;
+    text-transform: uppercase;
   }
 
   h2 {
-    font-weight: 900;
+    font-size: 1.2em;
+    font-weight: 700;
     text-transform: uppercase;
-    /* color: blueviolet; */
   }
 
   h3 {
-    font-weight: 700;
-    text-transform: uppercase;
-    /* color: green; */
-  }
-
-  p {
-    font-size: small;
-  }
-
-  ul li{
-    font-size: smaller;
+    font-size: 1.2em;
+    font-weight: 500;
   }
 
   a {
     text-decoration: none;
     font-weight: 700;
     color: #36a7e9;
+  }
+  p {
+    font-size: small;
+  }
+
+  ul li{
+    font-size: smaller;
   }
 }
