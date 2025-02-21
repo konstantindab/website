@@ -4,9 +4,13 @@
   },
   "CV.qmd": {
     "CV.html": "59b8eb8d",
-    "CV.pdf": "fae20599"
+    "CV.pdf": "fae20599",
+    "CV.tex": "44ee393d"
   },
   "index.qmd": {
     "index.html": "d44412a6"
+  },
+  "404.qmd": {
+    "404.html": "d3cd6f45"
   }
 }

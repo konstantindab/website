@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@quarto/netlify-plugin-quarto": "^0.0.5"
+    "@quarto/netlify-plugin-quarto": "^0.0.5",
+    "pagedjs-cli": "^0.4.3"
   }
 }

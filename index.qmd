@@ -5,7 +5,7 @@ card-style: "summary"
 about:
   id: hero-heading
   template: jolla
-  image: profile.jpg
+  image: images/profile.jpg
   links:
     - icon: linkedin
       text: LinkedIn

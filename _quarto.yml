@@ -9,13 +9,13 @@ execute:
 
 website:
   title: "Konstantin Böhm"
-  site-url: https://www.konstantinbohm.com
+  site-url: https://konstantindab.github.io/website/
   description: "Konstantin Böhm's Website"
   open-graph: true
   
 
-  repo-url: https://github.com/konstantindab/myweb
-  repo-actions: [edit, issue]
+  repo-url: https://github.com/konstantindab/website
+  repo-actions: [edit, source, issue]
 
   navbar:
     right:
@@ -38,7 +38,7 @@ website:
 format:
   html:
     theme:
-      light: [flatly, light.scss]
-      dark: [darkly, dark.scss]
-    css: styles.css
+      light: [flatly, styles\light.scss]
+      dark: [darkly, styles\dark.scss]
+    css: styles\styles.css
     from: markdown+emoji
