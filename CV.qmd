@@ -12,8 +12,6 @@ format-links: [pdf]
 
 ::: {.print-only}
 Konstantin Böhm <br>
-2/1 123 Shuna Street<br>
-G20 9QP, Glasgow<br>
 +44 7578932359<br>
 koni.boehm@gmail.com
 :::
