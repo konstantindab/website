@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.konstantinbohm.com/research.html</loc>
+    <loc>https://konstantindab.github.io/website/research.html</loc>
     <lastmod>2025-02-20T21:22:37.020Z</lastmod>
   </url>
   <url>
-    <loc>https://www.konstantinbohm.com/CV.html</loc>
-    <lastmod>2025-02-21T09:36:20.419Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.konstantinbohm.com/index.html</loc>
-    <lastmod>2025-02-21T09:37:56.964Z</lastmod>
-  </url>
-  <url>
     <loc>https://konstantindab.github.io/website/CV.html</loc>
-    <lastmod>2025-02-21T15:33:48.251Z</lastmod>
+    <lastmod>2025-02-21T16:58:18.326Z</lastmod>
+  </url>
+  <url>
+    <loc>https://konstantindab.github.io/website/index.html</loc>
+    <lastmod>2025-02-21T09:37:56.964Z</lastmod>
   </url>
 </urlset>

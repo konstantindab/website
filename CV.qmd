@@ -11,11 +11,10 @@ format-links: [pdf]
 ---
 
 ::: {.print-only}
-Konstantin Böhm <br>
-2/1 123 Shuna Street<br>
-G20 9QP, Glasgow<br>
+[Konstantin Böhm](https://konstantindab.github.io/website/) <br>
 +44 7578932359<br>
-koni.boehm@gmail.com
+[koni.boehm@gmail.com](mailto:koni.boehm@gmail.com) <br>
+[LinkedIn](https://www.linkedin.com/in/konstantindb/) | [GitHub](https://github.com/konstantindab)
 :::
 
 ## Education
@@ -83,6 +82,7 @@ koni.boehm@gmail.com
 - Physically and mentally resilient
 - Flexible, assertiveness, communication skills, critical thinking and intercultural competence
 - Awarded “Best Newcomer” Award QMU Running & Cycling 
+
 
 
 ::: {.print-only}

@@ -9,7 +9,7 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/konstantin-b%C3%B6hm-054876274/
+      href: https://www.linkedin.com/in/konstantindb/
     - icon: github
       text: Github
       href: https://github.com/konstantindab
