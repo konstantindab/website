@@ -1,2 +1,2 @@
 # personal website
-Inspired by [www.cynthiahqy.com](https://www.cynthiahqy.com). Built using Quarto website:blog template.
+Built using Quarto website.https://quarto.org/docs/websites/
