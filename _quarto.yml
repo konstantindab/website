@@ -12,6 +12,7 @@ website:
   site-url: https://konstantindab.github.io/website/
   description: "Konstantin Böhm's Website"
   open-graph: true
+  favicon: images\profile.jpg
   
 
   repo-url: https://github.com/konstantindab/website

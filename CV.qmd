@@ -3,20 +3,17 @@ title: "Curriculum Vitae"
 format:
   html:
     toc: true
+    toc-depth: 4
   pdf:
     author: CV
     pdf-engine: weasyprint
 css: styles\cv.css
 format-links: [pdf]
+embed-resources: true
 ---
 
 ::: {.print-only}
-<<<<<<< HEAD
 [Konstantin Böhm](https://konstantindab.github.io/website/) <br>
-=======
-Konstantin Böhm <br>
->>>>>>> 19de67e10b34d48b6cdd8113baeecf5ecbadce95
-+44 7578932359<br>
 [koni.boehm@gmail.com](mailto:koni.boehm@gmail.com) <br>
 [LinkedIn](https://www.linkedin.com/in/konstantindb/) | [GitHub](https://github.com/konstantindab)
 :::
@@ -70,18 +67,22 @@ Konstantin Böhm <br>
 
 ### Knowledge and interests
 
-::: {layout-ncol=2}
+:::{.container}
+::: {.column}
 #### Hobbies
 - Taekwon-Do
 - Playing the Saxophone
 - Road cycling and running
-- Cooking 
-
-#### Languages
-- English, (B2+/C1), IELTS 7.0
-- French (B1+) 
+- Cooking
 :::
 
+::: {.column}
+#### Languages & Skills
+- English, (B2+/C1), IELTS 7.0
+- French (B1+) 
+- R, Quarto, basic Python
+:::
+:::
 #### Strengths
 - Physically and mentally resilient
 - Flexible, assertiveness, communication skills, critical thinking and intercultural competence
@@ -92,4 +93,7 @@ Konstantin Böhm <br>
 ::: {.print-only}
 ## References
 Available upon request
+
+
+Glasgow, 24/02/2025
 :::

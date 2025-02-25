@@ -12,6 +12,16 @@
   /*color: aquamarine;*/
 }
 
+.container {
+  display: flex;
+  gap: 2rem;
+}
+
+.column {
+  flex: 1;
+}
+
+
 @media print {
   @page {
       size: a4 portrait;
@@ -62,11 +72,6 @@
     font-size: 1.2em;
     font-weight: 500;
   }
-  .test {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr; /* One-third */
-    gap: 10px; /* Adjust spacing if needed */
-}
   
   a {
     text-decoration: none;
@@ -80,4 +85,13 @@
   ul li{
     font-size: smaller;
   }
+  .container {
+    display: flex;
+    gap: 2rem;
+  }
+  
+  .column {
+    flex: 1;
+  }
+  
 }
