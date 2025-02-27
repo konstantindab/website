@@ -20,6 +20,4 @@ about:
 
 Welcome to my website! My name is Konstantin, I graduated with a BSc with Honours in Psychology. Currently, I am enrolled onto the MSc in Brain Sciences at the University of Glasgow. 
 
-I am curious to understand the intricacies of the human mind, with a particular interest in neurodegenerative diseases such as Alzheimer's Disease. Moreover, how epigenetic factors contribute to protective mechanisms in neurodegenerative diseases.
-
 This webpage is a small sideproject of mine. If you want to get in touch please message me through any of the links below. 
