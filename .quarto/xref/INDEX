@@ -1,12 +1,17 @@
 {
-  "CV.qmd": {
-    "CV.html": "368d9d23",
-    "CV.pdf": "ac58a71d"
+  "posts/post1.qmd": {
+    "post1.html": "12cb68c3"
   },
   "404.qmd": {
-    "404.html": "1440fb65"
+    "404.html": "f7d3ecdf"
+  },
+  "CV.qmd": {
+    "CV.html": "a7d257e1"
+  },
+  "myBlog.qmd": {
+    "myBlog.html": "9cdba7d8"
   },
   "research.qmd": {
-    "research.html": "4c484101"
+    "research.html": "f763b85d"
   }
 }

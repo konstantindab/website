@@ -21,6 +21,8 @@ website:
   navbar:
     right:
       - research.qmd
+      - myBlog.qmd
+      
       - text: CV
         href: CV.qmd
       - icon: github

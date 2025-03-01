@@ -94,6 +94,6 @@ embed-resources: true
 
 
 ::: {.print-only}
-## References
+## References {.unnumbered .unlisted}
 Available upon request
 :::
