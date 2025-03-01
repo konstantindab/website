@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "To be added."
-  },
-  {
     "objectID": "myBlog.html",
     "href": "myBlog.html",
     "title": "My Blog",
     "section": "",
     "text": "Building my own Website\n\n\n2 min\n\n\nUpdating my CV endet up becoming a bigger project\n\n\n\nKonstantin Böhm\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post1.html",
+    "href": "posts/post1.html",
+    "title": "Building my own Website",
+    "section": "",
+    "text": "While I was browsing for my most up-to-date CV, I found that I unfortunately only had a PDF copy. So I loaded it in MS Word and soon realised that the formatting had gone terribly wrong. The first page looked alright however, MS Word transformed the second page of my CV into a table. I started editing it and soon realised that this was more work than I had anticipated. This made me think: Maybe there is a better and more efficient way of having a professional CV. How cool would it be to have a HTML CV that can be transformed into a PDF with just one click? After some browsing I actually found a github repository of a person that build exactly that.\nMy intesnion was to improve my HTML skills and basically use the repository as a template. At that time I did not realise that it had already become a bigger project that I expected. Nevertheless, I filled my details into the CV template and rendered the document. For some reason the formatting had gone completely wrong so I investigated the problem. You can probably guess what went wrong, the customised formatting either worked for the HTML output or the PDF, but not for both. I quickly noticed that it had to do with how the CSS script translated styling into HTML or PDF outputs. After spending hours trying to different pdf-engines or adjusting the CSS script, I had finally figured it out. That moment was super rewarding and I enjoyed the process. This is what motivated me to not stop and continue developing my skills. I decided to build my own website.\nThere are still many features I would like to add to this project and skills that I want to learn. I you have any suggestions please feel free to get in touch with me at any time."
   },
   {
     "objectID": "CV.html",
@@ -56,17 +56,10 @@
     "text": "References\nAvailable upon request"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Konstantin Böhm",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Welcome to my website! My name is Konstantin, I graduated with a BSc with Honours in Psychology. Currently, I am enrolled onto the MSc in Brain Sciences at the University of Glasgow.\nThis webpage is a small sideproject of mine. If you want to get in touch please message me through any of the links below."
-  },
-  {
-    "objectID": "posts/post1.html",
-    "href": "posts/post1.html",
-    "title": "Building my own Website",
-    "section": "",
-    "text": "While I was browsing for my most up-to-date CV, I found that I unfortunately only had a PDF copy. So I loaded it in MS Word and soon realised that the formatting had gone terribly wrong. The first page looked alright however, MS Word transformed the second page of my CV into a table. I started editing it and soon realised that this was more work than I had anticipated. This made me think: Maybe there is a better and more efficient way of having a professional CV. How cool would it be to have a HTML CV that can be transformed into a PDF with just one click? After some browsing I actually found a github repository of a person that build exactly that.\nMy intesnion was to improve my HTML skills and basically use the repository as a template. At that time I did not realise that it had already become a bigger project that I expected. Nevertheless, I filled my details into the CV template and rendered the document. For some reason the formatting had gone completely wrong so I investigated the problem. You can probably guess what went wrong, the customised formatting either worked for the HTML output or the PDF, but not for both. I quickly noticed that it had to do with how the CSS script translated styling into HTML or PDF outputs. After spending hours trying to different pdf-engines or adjusting the CSS script, I had finally figured it out. That moment was super rewarding and I enjoyed the process. This is what motivated me to not stop and continue developing my skills. I decided to build my own website.\nThere are still many features I would like to add to this project and skills that I want to learn. I you have any suggestions please feel free to get in touch with me at any time."
+    "text": "To be added."
   }
 ]
