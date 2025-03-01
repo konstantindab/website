@@ -1,21 +1,17 @@
 {
-  "posts/post1.qmd": {
-    "post1.html": "12cb68c3"
+  "myBlog.qmd": {
+    "myBlog.html": "6ddeaa44"
   },
   "404.qmd": {
-    "404.html": "f7d3ecdf"
+    "404.html": "eeeed93a"
   },
   "CV.qmd": {
-    "CV.html": "a7d257e1",
-    "CV.pdf": "1b62d653"
+    "CV.html": "d04ad8e0"
   },
-  "myBlog.qmd": {
-    "myBlog.html": "9cdba7d8"
+  "posts/post1.qmd": {
+    "post1.html": "eb624a15"
   },
   "research.qmd": {
-    "research.html": "f763b85d"
-  },
-  "index.qmd": {
-    "index.html": "88168776"
+    "research.html": "babd4ecd"
   }
 }
