@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://konstantindab.github.io/website/myBlog.html</loc>
-    <lastmod>2025-03-01T18:06:56.358Z</lastmod>
+    <loc>https://konstantindab.github.io/website/research.html</loc>
+    <lastmod>2025-02-20T21:22:37.020Z</lastmod>
   </url>
   <url>
-    <loc>https://konstantindab.github.io/website/posts/post1.html</loc>
-    <lastmod>2025-03-01T18:06:53.953Z</lastmod>
+    <loc>https://konstantindab.github.io/website/myBlog.html</loc>
+    <lastmod>2025-03-01T18:06:56.358Z</lastmod>
   </url>
   <url>
     <loc>https://konstantindab.github.io/website/CV.html</loc>
     <lastmod>2025-03-01T14:20:57.598Z</lastmod>
   </url>
   <url>
-    <loc>https://konstantindab.github.io/website/research.html</loc>
-    <lastmod>2025-02-20T21:22:37.020Z</lastmod>
+    <loc>https://konstantindab.github.io/website/index.html</loc>
+    <lastmod>2025-02-27T17:46:26.942Z</lastmod>
+  </url>
+  <url>
+    <loc>https://konstantindab.github.io/website/posts/post1.html</loc>
+    <lastmod>2025-03-01T18:06:53.953Z</lastmod>
   </url>
 </urlset>

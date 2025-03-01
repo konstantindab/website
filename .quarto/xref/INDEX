@@ -6,12 +6,16 @@
     "404.html": "eeeed93a"
   },
   "CV.qmd": {
-    "CV.html": "d04ad8e0"
+    "CV.html": "d04ad8e0",
+    "CV.pdf": "6f988a25"
   },
   "posts/post1.qmd": {
     "post1.html": "eb624a15"
   },
   "research.qmd": {
     "research.html": "babd4ecd"
+  },
+  "index.qmd": {
+    "index.html": "3994ff2d"
   }
 }
