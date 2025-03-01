@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Konstantin Böhm",
-    "section": "",
-    "text": "Welcome to my website! My name is Konstantin, I graduated with a BSc with Honours in Psychology. Currently, I am enrolled onto the MSc in Brain Sciences at the University of Glasgow.\nThis webpage is a small sideproject of mine. If you want to get in touch please message me through any of the links below."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "To be added."
-  },
-  {
     "objectID": "CV.html",
     "href": "CV.html",
     "title": "Curriculum Vitae",
@@ -54,5 +40,12 @@
     "title": "Curriculum Vitae",
     "section": "References",
     "text": "References\nAvailable upon request"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "To be added."
   }
 ]

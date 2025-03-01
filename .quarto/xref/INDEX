@@ -1,16 +1,12 @@
 {
-  "research.qmd": {
-    "research.html": "932f6d20"
-  },
   "CV.qmd": {
-    "CV.html": "59b8eb8d",
-    "CV.pdf": "fae20599",
-    "CV.tex": "44ee393d"
-  },
-  "index.qmd": {
-    "index.html": "d44412a6"
+    "CV.html": "368d9d23",
+    "CV.pdf": "ac58a71d"
   },
   "404.qmd": {
-    "404.html": "d3cd6f45"
+    "404.html": "1440fb65"
+  },
+  "research.qmd": {
+    "research.html": "4c484101"
   }
 }

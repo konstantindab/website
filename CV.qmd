@@ -4,6 +4,9 @@ format:
   html:
     toc: true
     toc-depth: 4
+    theme:
+      light: [flatly, styles\light.scss]
+      dark: [darkly, styles\dark.scss]
   pdf:
     author: CV
     pdf-engine: weasyprint
