@@ -10,7 +10,7 @@
 <atom:link href="https://konstantindab.github.io/website/myBlog.xml" rel="self" type="application/rss+xml"/>
 <description>Konstantin Böhm&#39;s Website</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Sat, 01 Mar 2025 15:18:14 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Mar 2025 17:24:55 GMT</lastBuildDate>
 <item>
   <title>Building my own website</title>
   <dc:creator>Konstantin Böhm</dc:creator>
@@ -29,8 +29,8 @@
   <category>coding</category>
   <category>skills</category>
   <guid>https://konstantindab.github.io/website/posts/post1.html</guid>
-  <pubDate>Sat, 01 Mar 2025 15:18:14 GMT</pubDate>
-  <media:content url="https://konstantindab.github.io/website/posts/images/post1.png" medium="image" type="image/png"/>
+  <pubDate>Sat, 01 Mar 2025 17:24:55 GMT</pubDate>
+  <media:content url="https://konstantindab.github.io/website/posts/images/post1.png" medium="image" type="image/png" height="96" width="144"/>
 </item>
 </channel>
 </rss>
