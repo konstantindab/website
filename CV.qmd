@@ -81,9 +81,9 @@ embed-resources: true
 
 ::: {.column}
 #### Languages & Skills
-- English, (B2+/C1), IELTS 7.0
+- English Native/Bilingual
 - French (B1+) 
-- R, Quarto, basic Python
+- R, basic Python, html
 :::
 :::
 #### Strengths
