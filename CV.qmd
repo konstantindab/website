@@ -83,7 +83,7 @@ embed-resources: true
 #### Languages & Skills
 - English Native/Bilingual
 - French (B1+) 
-- R, basic Python, html
+- R, basic Python, HTML
 :::
 :::
 #### Strengths
