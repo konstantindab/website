@@ -1,18 +1,18 @@
 {
-  "myBlog.qmd": {
-    "myBlog.html": "b233d4ef"
+  "CV.qmd": {
+    "CV.html": "858ab3aa",
+    "CV.pdf": "067be55a"
   },
   "404.qmd": {
-    "404.html": "d0afc699"
+    "404.html": "d0c48c41"
   },
-  "CV.qmd": {
-    "CV.html": "9019b61e",
-    "CV.pdf": "62201a2f"
+  "myBlog.qmd": {
+    "myBlog.html": "d69b12b3"
   },
   "posts/post1.qmd": {
-    "post1.html": "33c1df5a"
+    "post1.html": "96075293"
   },
   "research.qmd": {
-    "research.html": "14d6d5f4"
+    "research.html": "1dc93209"
   }
 }
