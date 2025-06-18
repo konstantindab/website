@@ -6,3 +6,5 @@ Built using Quarto website. https://quarto.org/docs/websites/
 - firewall protection
 - contact form
 - professional blog
+
+- typo in edited
