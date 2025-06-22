@@ -82,6 +82,7 @@ embed-resources: true
 ::: {.column}
 #### Languages & Skills
 - English Native/Bilingual
+- German Native/Bilingual
 - French (B1+) 
 - R, basic Python, HTML
 :::
