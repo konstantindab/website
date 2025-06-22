@@ -1,7 +1,7 @@
 ---
 title: "Building my own Website"
 image: images/post1.png
-description: "Updating my CV endet up becoming a bigger project"
+description: "Updating my CV ended up becoming a bigger project"
 author: Konstantin Böhm
 date: 03/01/2025
 date-modified: today
