@@ -14,5 +14,11 @@
   },
   "research.qmd": {
     "research.html": "1dc93209"
+  },
+  "index.qmd": {
+    "index.html": "ce3cb3eb"
+  },
+  "posts/post2.qmd": {
+    "post2.html": "475e1bab"
   }
 }

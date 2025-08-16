@@ -1,20 +1,19 @@
 ---
 title: "Curriculum Vitae"
-author: "CV"
 format:
   html:
     toc: true
     toc-depth: 4
     theme:
-      light: [flatly, styles/light.scss]
-      dark: [darkly, styles/dark.scss]
+      light: [flatly, styles\light.scss]
+      dark: [darkly, styles\dark.scss]
   pdf:
+    author: CV
     pdf-engine: weasyprint
-css: styles/cv.css
+css: styles\cv.css
 format-links: [pdf]
 embed-resources: true
 ---
-
 
 ::: {.print-only}
 [Konstantin Böhm](https://konstantindab.github.io/website/) <br>
@@ -22,16 +21,15 @@ embed-resources: true
 [LinkedIn](https://www.linkedin.com/in/konstantindb/) | [GitHub](https://github.com/konstantindab)
 :::
 
-**MSc Brain Sciences**  
-*University of Glasgow* [Sep 2024 – Sep 2025]  
-Dissertation: Longitudinal Tracking of Retrosplenial Cortex Neurons During Contextual Fear Retrieval in APP^NL-G-F^ Mice Treated with ENTA-061  
+## Education
 
-**BSc (Hons) Psychology, First Class**  
-*Queen Margaret University, Edinburgh* [Sep 2020 – Jul 2024]  
-Dissertation: The Power of Purposeful Thinking: Object Function and its Mnemonic Consequences  
+**Primary school** <br> *“Grundschule Zedernstraße” Fürth/Vach* [*Sep 2006 --- Jul 2010*]{.cvdate}
 
-**Abitur (German Secondary Education)**  
-*Helene-Lange-Gymnasium Fürth* [Sep 2011 – Jul 2018]  
+**Secondary High School -- Abitur** <br> *Helene-Lange-Gymnasium Fürth* [*Sep 2011 --- Jul 2018*]{.cvdate}
+
+**Bachelor of Science (Honours) -- Psychology** <br> *Queen Margaret University, Edinburgh* [*Sep 2020 --- Jul 2024*]{.cvdate}
+
+**Master of Science -- Brain Sciences** <br> *University of Glasgow* [*Sep 2024 --- Present*]{.cvdate}
 
 ## Internships
 
@@ -69,27 +67,11 @@ Dissertation: The Power of Purposeful Thinking: Object Function and its Mnemonic
 
 **Games Master**<br> *Escape Reality Ltd., Scotland* [*Jan 2023 -- Feb 2025*]{.cvdate}
 
-## Certifications & Training
-- PIL (ABC) Training Certificate – Laboratory Animal Procedures (ASPA)  
 
-
-### Skills and interests
+### Knowledge and interests
 
 :::{.container}
 ::: {.column}
-#### Languages
-- English (Native/Bilingual), German (Native/Bilingual), French (B1+)  
-
-#### Technical skills 
-- Data analysis: R, Python  
-- Web development: HTML  
-- Laboratory training: PIL (ABC) – Laboratory Animal Procedures (ASPA) 
-
-#### Transferable Skills
-- Critical thinking
-- Communication, intercultural competence
-- Adaptability  
-
 #### Hobbies
 - Taekwon-Do
 - Playing the Saxophone
@@ -98,13 +80,17 @@ Dissertation: The Power of Purposeful Thinking: Object Function and its Mnemonic
 :::
 
 ::: {.column}
-#### Achievements 
-- “Best Newcomer” Award, QMU Running & Cycling
-- "Kulturpreis" Helene-Lange-Gymnasium 
-
-#### Interests 
-- Taekwon-Do, saxophone, cycling, running, cooking  
+#### Languages & Skills
+- English Native/Bilingual
+- German Native/Bilingual
+- French (B1+) 
+- R, basic Python, HTML
 :::
+:::
+#### Strengths
+- Physically and mentally resilient
+- Flexible, assertiveness, communication skills, critical thinking and intercultural competence
+- Awarded “Best Newcomer” Award QMU Running & Cycling 
 
 
 

@@ -1,0 +1,12 @@
+---
+title: My Blog
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  fields: [image, description, date, title, author, reading-time]
+  categories: true
+  feed:
+    categories: [news, posts]
+embed-resources: true
+---

@@ -1,0 +1,16 @@
+---
+title: "Building my own Website"
+image: images/post1.png
+description: "Updating my CV ended up becoming a bigger project"
+author: Konstantin Böhm
+date: 03/01/2025
+date-modified: today
+categories:
+  - coding
+  - skills
+---
+While I was browsing for my most up-to-date CV, I found that I unfortunately only had a PDF copy. So I loaded it in MS Word and soon realised that the formatting had gone terribly wrong. The first page looked alright however, MS Word transformed the second page of my CV into a table. I started editing it and soon realised that this was more work than I had anticipated. This made me think: Maybe there is a better and more efficient way of having a professional CV. *How cool would it be to have a HTML CV that can be transformed into a PDF with just one click?* After some browsing I actually found a github repository of a person that build exactly that.
+
+My intesnion was to improve my HTML skills and basically use the repository as a template. At that time I did not realise that it had already become a bigger project that I expected. Nevertheless, I filled my details into the CV template and rendered the document. For some reason the formatting had gone completely wrong so I investigated the problem. You can probably guess what went wrong, the customised formatting either worked for the HTML output or the PDF, but not for both. I quickly noticed that it had to do with how the CSS script translated styling into HTML or PDF outputs. After spending hours trying to different pdf-engines or adjusting the CSS script, I had finally figured it out. That moment was super rewarding and I enjoyed the process. This is what motivated me to not stop and continue developing my skills. I decided to build my own website. 
+
+There are still many features I would like to add to this project and skills that I want to learn. I you have any suggestions please feel free to get in [touch](mailto:koni.boehm@gmail.com) with me at any time.

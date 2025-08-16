@@ -1,0 +1,11 @@
+---
+title: "Between machine learning pipelines and data analysis"
+image: images/post1.png
+description: "DeepLabCut and simBA as machine learning models to analyse mouse behaviour"
+author: Konstantin Böhm
+date: 07/02/2025
+date-modified: today
+categories:
+  - dissertation
+  - coding
+---
