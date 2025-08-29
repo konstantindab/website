@@ -7,66 +7,66 @@
     "text": "To be added."
   },
   {
-    "objectID": "myBlog.html",
-    "href": "myBlog.html",
-    "title": "My Blog",
+    "objectID": "posts/post1.html",
+    "href": "posts/post1.html",
+    "title": "Building my own Website",
     "section": "",
-    "text": "Building my own Website\n\n\n2 min\n\n\nUpdating my CV ended up becoming a bigger project\n\n\n\nKonstantin Böhm\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Konstantin Böhm  koni.boehm@gmail.com  LinkedIn | GitHub"
-  },
-  {
-    "objectID": "CV.html#education",
-    "href": "CV.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\nPrimary school  “Grundschule Zedernstraße” Fürth/Vach Sep 2006 — Jul 2010\nSecondary High School – Abitur  Helene-Lange-Gymnasium Fürth Sep 2011 — Jul 2018\nBachelor of Science (Honours) – Psychology  Queen Margaret University, Edinburgh Sep 2020 — Jul 2024\nMaster of Science – Brain Sciences  University of Glasgow Sep 2024 — Present"
-  },
-  {
-    "objectID": "CV.html#internships",
-    "href": "CV.html#internships",
-    "title": "Curriculum Vitae",
-    "section": "Internships",
-    "text": "Internships\nIntern at Radio station – “Hit Radio N1” Funkhaus Nürnberg Jul 2015\nResearch assistant – Careena Center for Health Gaborone, Botswana Jul 2023 — Aug 2023"
-  },
-  {
-    "objectID": "CV.html#volunteer-activities",
-    "href": "CV.html#volunteer-activities",
-    "title": "Curriculum Vitae",
-    "section": "Volunteer activities",
-    "text": "Volunteer activities\nVolunteer – Congregation of St. Matthews Church Fürth/Vach Oct 2015 — Feb 2016\nTaekwon-Do Coach for children and adults Taekwon-Do Vach Jan 2016 — Sep 2020\nGerman voluntary service “weltwärts” – Eine Welt Netz NRW Stepping Stones International in Mochudi, Botswana Aug 2018 — Aug 2019\nCo-founder and Vice president – QMU Running and Cycling Queen Margaret University, Edinburgh Mar 2023 — May 2024\nStudent researcher – Toy Box Diversity Lab Queen Margaret University, Edinburgh Sep 2023 — Jul 2024"
-  },
-  {
-    "objectID": "CV.html#employment",
-    "href": "CV.html#employment",
-    "title": "Curriculum Vitae",
-    "section": "Employment",
-    "text": "Employment\nRetail Assistant E-Center EDEKA Schuler, Fürth May 2017 – Sep 2017\nKitchen Porter – Michelin star awarded restaurant „L’impertinent“ Biarritz, France – Return to Germany due to Covid-19 Mar 2020 – Apr 2020\nLogistics AssistantIKEA Germany, Fürth* Jul 2020 – Sep 2020\nAdministrative Assistant – Covid-19 vaccination centre Arbeitsgemeinschaft Notfallmedizin Fürth e. V. Jun 2021 – Aug 2021\nGames Master and Social Media ManagerPadlox Escape Rooms, Edinburgh Nov 2021 – Nov 2022\nEvents Usher – Open Days Queen Margaret University, Edinburgh Sep 2021 – Oct 2023\nGames Master Escape Reality Ltd., Scotland Jan 2023 – Feb 2025\n\nKnowledge and interests\n\n\n\nHobbies\n\nTaekwon-Do\nPlaying the Saxophone\nRoad cycling and running\nCooking\n\n\n\n\n\nLanguages & Skills\n\nEnglish Native/Bilingual\nGerman Native/Bilingual\nFrench (B1+)\nR, basic Python, HTML\n\n\n\n\n\nStrengths\n\nPhysically and mentally resilient\nFlexible, assertiveness, communication skills, critical thinking and intercultural competence\nAwarded “Best Newcomer” Award QMU Running & Cycling"
-  },
-  {
-    "objectID": "CV.html#references",
-    "href": "CV.html#references",
-    "title": "Curriculum Vitae",
-    "section": "References",
-    "text": "References\nAvailable upon request"
+    "text": "While I was browsing for my most up-to-date CV, I found that I unfortunately only had a PDF copy. So I loaded it in MS Word and soon realised that the formatting had gone terribly wrong. The first page looked alright however, MS Word transformed the second page of my CV into a table. I started editing it and soon realised that this was more work than I had anticipated. This made me think: Maybe there is a better and more efficient way of having a professional CV. How cool would it be to have a HTML CV that can be transformed into a PDF with just one click? After some browsing I actually found a github repository of a person that build exactly that.\nMy intesnion was to improve my HTML skills and basically use the repository as a template. At that time I did not realise that it had already become a bigger project that I expected. Nevertheless, I filled my details into the CV template and rendered the document. For some reason the formatting had gone completely wrong so I investigated the problem. You can probably guess what went wrong, the customised formatting either worked for the HTML output or the PDF, but not for both. I quickly noticed that it had to do with how the CSS script translated styling into HTML or PDF outputs. After spending hours trying to different pdf-engines or adjusting the CSS script, I had finally figured it out. That moment was super rewarding and I enjoyed the process. This is what motivated me to not stop and continue developing my skills. I decided to build my own website.\nThere are still many features I would like to add to this project and skills that I want to learn. I you have any suggestions please feel free to get in touch with me at any time."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Konstantin Böhm",
     "section": "",
-    "text": "Welcome to my website! My name is Konstantin, I graduated with a BSc with Honours in Psychology. Currently, I am enrolled onto the MSc in Brain Sciences at the University of Glasgow.\nThis webpage is a small sideproject of mine. If you want to get in touch please message me through any of the links below."
+    "text": "Welcome to my website! My name is Konstantin, I graduated with a BSc with Honours in Psychology. Currently, I am enrolled onto the MSc in Brain Sciences at the University of Glasgow.\nThis webpage is a small side project of mine. If you want to get in touch please message me through any of the links below."
   },
   {
-    "objectID": "posts/post1.html",
-    "href": "posts/post1.html",
-    "title": "Building my own Website",
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Konstantin Böhm",
     "section": "",
-    "text": "While I was browsing for my most up-to-date CV, I found that I unfortunately only had a PDF copy. So I loaded it in MS Word and soon realised that the formatting had gone terribly wrong. The first page looked alright however, MS Word transformed the second page of my CV into a table. I started editing it and soon realised that this was more work than I had anticipated. This made me think: Maybe there is a better and more efficient way of having a professional CV. How cool would it be to have a HTML CV that can be transformed into a PDF with just one click? After some browsing I actually found a github repository of a person that build exactly that.\nMy intesnion was to improve my HTML skills and basically use the repository as a template. At that time I did not realise that it had already become a bigger project that I expected. Nevertheless, I filled my details into the CV template and rendered the document. For some reason the formatting had gone completely wrong so I investigated the problem. You can probably guess what went wrong, the customised formatting either worked for the HTML output or the PDF, but not for both. I quickly noticed that it had to do with how the CSS script translated styling into HTML or PDF outputs. After spending hours trying to different pdf-engines or adjusting the CSS script, I had finally figured it out. That moment was super rewarding and I enjoyed the process. This is what motivated me to not stop and continue developing my skills. I decided to build my own website.\nThere are still many features I would like to add to this project and skills that I want to learn. I you have any suggestions please feel free to get in touch with me at any time."
+    "text": "Mail | LinkedIn | GitHub"
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "Konstantin Böhm",
+    "section": "Education",
+    "text": "Education\n\n\n\nMSc Brain Sciences09/2024 — 09/2025\nUniversity of Glasgow\nBSc (Hons) Psychology, First Class Honours09/2020 — 07/2024\nQueen Margaret University, Edinburgh\nAbitur (German Secondary Education)09/2010 — 07/2018\nHelene-Lange-Gymnasium Fürth"
+  },
+  {
+    "objectID": "CV.html#research-experience",
+    "href": "CV.html#research-experience",
+    "title": "Konstantin Böhm",
+    "section": "Research Experience",
+    "text": "Research Experience\n\n\n\nMSc Dissertation04/2025 — 08/2025\nLongitudinal Tracking of Retrosplenial Cortex Neurons During Contextual Fear Retrieval\nin APPNL-G-F Mice Treated with ENT-A061\nStudent Researcher – Toy Box Diversity Lab09/2023 — 07/2024\nQueen Margaret University, Edinburgh\nBSc Dissertation10/2023 — 04/2024\nThe Power of Purposeful Thinking: Object Function and its Mnemonic Consequences\nResearch Assistant – Careena Center for Health07/2023 — 08/2023\nGaborone, Botswana"
+  },
+  {
+    "objectID": "CV.html#skills",
+    "href": "CV.html#skills",
+    "title": "Konstantin Böhm",
+    "section": "Skills",
+    "text": "Skills\n\n\n\n\n\n\nTechnical Skills:\n\nData cleaning and visualisation\n\nStatistical modelling\n\nHigh-performance computing\n\nMachine learning tools\n\nQualitative analysis\n\nR and SPSS/JASP (Advanced)\n\nPython and Excel (Intermediate)\n\nMATLAB, HTML and CSS (Beginner)\n\n\n\nSkills and Strengths:\n\nCritical thinking\n\nCommunication\n\nTime management\nIntercultural skills\n\nAdaptability\n\n\n\n\n\n\nLanguages:\n\nEnglish (Bilingual)\n\nGerman (Native)\n\nFrench (B1+)"
+  },
+  {
+    "objectID": "CV.html#volunteering",
+    "href": "CV.html#volunteering",
+    "title": "Konstantin Böhm",
+    "section": "Volunteering",
+    "text": "Volunteering\n\n\n\nCo-founder and Vice President03/2023 — 05/2024\nQueen Margaret University, Edinburgh\nGerman Voluntary Service “weltwärts” – Eine Welt Netz NRW08/2018 — 08/2019\nVolunteer at Stepping Stones International in Mochudi, Botswana\nTaekwon-Do Coach (Children & Adults)01/2016 — 09/2020\nTaekwon-Do Vach\nVolunteer – Congregation of St. Matthews Church10/2015 — 02/2016\nFürth/Vach\n\nAchievements\nBest Newcomer Award\nQMU Running & Cycling\nSchool Award for Exceptional Engagement\n\n\nCertifications\nPIL (ABC) Training Certificate\nLaboratory Animal Procedures (ASPA)\nFull clean EU driving license\n\n\nExtracurricular Interests\nTaekwon-Do\nCycling and running\nSaxophone"
+  },
+  {
+    "objectID": "CV.html#employment-history",
+    "href": "CV.html#employment-history",
+    "title": "Konstantin Böhm",
+    "section": "Employment History",
+    "text": "Employment History\n\n\n\nGames Master01/2023 — 02/2025\nEscape Reality Ltd., Scotland\nEvents Usher – Open Days09/2021 — 10/2023\nQueen Margaret University, Edinburgh\nGames Master and Social Media Manager11/2021 — 11/2022\nPadlox Escape Rooms, Edinburgh\nAdministrative Assistant06/2021 — 08/2021\nCovid-19 Vaccination Centre – Arbeitsgemeinschaft Notfallmedizin Fürth e. V.\nLogistics Assistant07/2020 — 09/2020\nIKEA Germany, Fürth\nKitchen Porter – Michelin-star Restaurant03/2020 — 04/2020\n„L’impertinent“ Biarritz, France – Returned to Germany due to Covid-19\nRetail Assistant05/2017 — 09/2017\nE-Center EDEKA Schuler, Fürth\nIntern at Radio station – “Hit Radio N1”07/2015\nFunkhaus Nürnberg\n\nReferences\nAvailable upon request."
+  },
+  {
+    "objectID": "myBlog.html",
+    "href": "myBlog.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "Between machine learning pipelines and data analysis\n\n\n1 min\n\n\nDeepLabCut and simBA as machine learning models to analyse mouse behaviour\n\n\n\nKonstantin Böhm\n\n\nJul 2, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding my own Website\n\n\n2 min\n\n\nUpdating my CV ended up becoming a bigger project\n\n\n\nKonstantin Böhm\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
