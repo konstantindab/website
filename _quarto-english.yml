@@ -1,0 +1,56 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "!posts/drafts/**/*.qmd"
+  output-dir: ./_site/en
+
+execute:
+  freeze: false
+
+website:
+  title: "Konstantin Böhm"
+  site-url: https://konstantindab.github.io/website/de
+  description: "Konstantin Böhm's Website"
+  open-graph: true
+  favicon: images/profilesmall.png
+
+  repo-url: https://github.com/konstantindab/website/
+  repo-actions: [edit, source, issue]
+
+  navbar:
+    right:
+      - text: Research
+        href: research.qmd
+      - text: Blog
+        href: myBlog.qmd
+      - text: CV
+        href: CV.qmd
+      - icon: github
+        href: https://github.com/konstantindab
+      - icon: linkedin
+        href: https://www.linkedin.com/in/konstantindb/
+      - icon: envelope-at-fill
+        href: mailto:koni.boehm@gmail.com
+      - icon: rss
+        href: sitemap.xml
+      - icon: globe
+        menu:
+          - text: EN
+            href: ../en
+          - text: DE
+            href: ../de
+
+
+  page-footer:
+    right: "This website is built using [Quarto](https://quarto.org/). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+
+lang: en
+
+format:
+  html:
+    theme:
+      light: [flatly, styles/light.scss]
+      dark: [darkly, styles/dark.scss]
+    css: styles/styles.css
+    from: markdown+emoji

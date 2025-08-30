@@ -1,6 +1,5 @@
 ---
-title: "Curriculum Vitae"
-author: "CV"
+title: "Konstantin Böhm"
 format:
   html:
     toc: true
@@ -15,100 +14,319 @@ format-links: [pdf]
 embed-resources: true
 ---
 
+::: {.content-visible when-profile="english"}
 
-::: {.print-only}
-[Konstantin Böhm](https://konstantindab.github.io/website/) <br>
-[koni.boehm@gmail.com](mailto:koni.boehm@gmail.com) <br>
-[LinkedIn](https://www.linkedin.com/in/konstantindb/) | [GitHub](https://github.com/konstantindab)
+::: {.print-only style="text-align: center; font-size: 14pt; font-weight: bold;"}
+[Mail](mailto:koni.boehm@gmail.com) | 
+[LinkedIn](https://www.linkedin.com/in/konstantindb/) | 
+[GitHub](https://github.com/konstantindab)
 :::
 
-**MSc Brain Sciences**  
-*University of Glasgow* [Sep 2024 – Sep 2025]  
-Dissertation: Longitudinal Tracking of Retrosplenial Cortex Neurons During Contextual Fear Retrieval in APP^NL-G-F^ Mice Treated with ENTA-061  
+::: {.print-only style="text-align: center"}
+MSc Brain Sciences graduate with a First Class Honours degree in Psychology. Skilled in quantitative and qualitative data analysis. Experienced in clinical and academic research. Strong communication skills and interested in connecting scientific evidence with real-world applications.
+:::
 
-**BSc (Hons) Psychology, First Class**  
-*Queen Margaret University, Edinburgh* [Sep 2020 – Jul 2024]  
-Dissertation: The Power of Purposeful Thinking: Object Function and its Mnemonic Consequences  
+## Education
+::: {.print-only}
+***
+:::
 
-**Abitur (German Secondary Education)**  
-*Helene-Lange-Gymnasium Fürth* [Sep 2011 – Jul 2018]  
+**MSc Brain Sciences**[09/2024 --- 09/2025]{.cvdate}  
+*University of Glasgow* 
 
-## Internships
+**BSc (Hons) Psychology, First Class Honours**[09/2020 --- 07/2024]{.cvdate}  
+*Queen Margaret University, Edinburgh* 
 
-**Intern at Radio station -- “Hit Radio N1”**<br> *Funkhaus Nürnberg* [*Jul 2015*]{.cvdate}
+**Abitur (German Secondary Education)**[09/2010 --- 07/2018]{.cvdate}  
+*Helene-Lange-Gymnasium Fürth* 
 
-**Research assistant -- Careena Center for Health**<br> *Gaborone, Botswana* [*Jul 2023 --- Aug 2023*]{.cvdate}
+## Research Experience
+::: {.print-only}
+***
+:::
 
-## Volunteer activities
+**MSc Dissertation**[*04/2025 --- 08/2025*]{.cvdate}  
+*Longitudinal Tracking of Retrosplenial Cortex Neurons During Contextual Fear Retrieval  
+in APP^NL-G-F^ Mice Treated with ENT-A061* 
 
-**Volunteer -- Congregation of St. Matthews Church**<br> *Fürth/Vach* [*Oct 2015 --- Feb 2016*]{.cvdate}
+**Student Researcher -- Toy Box Diversity Lab**[*09/2023 --- 07/2024*]{.cvdate}  
+*Queen Margaret University, Edinburgh* 
 
-**Taekwon-Do Coach for children and adults**<br> *Taekwon-Do Vach* [*Jan 2016 --- Sep 2020*]{.cvdate}
+**BSc Dissertation**[*10/2023 --- 04/2024*]{.cvdate}  
+*The Power of Purposeful Thinking: Object Function and its Mnemonic Consequences* 
 
-**German voluntary service “weltwärts” -- Eine Welt Netz NRW**<br> *Stepping Stones International in Mochudi, Botswana* [*Aug 2018 --- Aug 2019*]{.cvdate}
+**Research Assistant -- Careena Center for Health**[*07/2023 --- 08/2023*]{.cvdate}  
+*Gaborone, Botswana* 
 
-**Co-founder and Vice president -- QMU Running and Cycling**<br> *Queen Margaret University, Edinburgh* [*Mar 2023 --- May 2024*]{.cvdate}
-
-**Student researcher -- Toy Box Diversity Lab**<br> *Queen Margaret University, Edinburgh* [*Sep 2023 --- Jul 2024*]{.cvdate}
-
-
-## Employment {style="page-break-before: always"}
-
-
-**Retail Assistant**<br> *E-Center EDEKA Schuler, Fürth* [*May 2017 -- Sep 2017*]{.cvdate}
-
-**Kitchen Porter -- Michelin star awarded restaurant**<br> *„L’impertinent“ Biarritz, France* -- Return to Germany due to Covid-19 [Mar 2020 -- Apr 2020]{.cvdate}
-
-**Logistics Assistant**<br>IKEA Germany, Fürth* [*Jul 2020 -- Sep 2020*]{.cvdate}
-
-**Administrative Assistant -- Covid-19 vaccination centre**<br> *Arbeitsgemeinschaft Notfallmedizin Fürth e. V.* [*Jun 2021 -- Aug 2021*]{.cvdate}
-
-**Games Master and Social Media Manager**<br>*Padlox Escape Rooms, Edinburgh* [*Nov 2021 -- Nov 2022*]{.cvdate}
-
-**Events Usher -- Open Days**<br> *Queen Margaret University, Edinburgh* [*Sep 2021 -- Oct 2023*]{.cvdate}
-
-**Games Master**<br> *Escape Reality Ltd., Scotland* [*Jan 2023 -- Feb 2025*]{.cvdate}
-
-## Certifications & Training
-- PIL (ABC) Training Certificate – Laboratory Animal Procedures (ASPA)  
-
-
-### Skills and interests
+## Skills
+::: {.print-only}
+***
+:::
 
 :::{.container}
-::: {.column}
-#### Languages
-- English (Native/Bilingual), German (Native/Bilingual), French (B1+)  
+:::{.column}
+### Technical Skills:  
+- Data cleaning and visualisation  
+- Statistical modelling  
+- High-performance computing  
+- Machine learning tools  
+- Qualitative analysis  
+- R and SPSS/JASP (Advanced)  
+- Python and Excel (Intermediate)  
+- MATLAB, HTML and CSS (Beginner)  
 
-#### Technical skills 
-- Data analysis: R, Python  
-- Web development: HTML  
-- Laboratory training: PIL (ABC) – Laboratory Animal Procedures (ASPA) 
-
-#### Transferable Skills
-- Critical thinking
-- Communication, intercultural competence
+### Skills and Strengths:  
+- Critical thinking  
+- Communication  
+- Time management
+- Intercultural skills  
 - Adaptability  
-
-#### Hobbies
-- Taekwon-Do
-- Playing the Saxophone
-- Road cycling and running
-- Cooking
 :::
 
-::: {.column}
-#### Achievements 
-- “Best Newcomer” Award, QMU Running & Cycling
-- "Kulturpreis" Helene-Lange-Gymnasium 
-
-#### Interests 
-- Taekwon-Do, saxophone, cycling, running, cooking  
+:::{.column}
+### Languages:  
+- English (Bilingual)  
+- German (Native)  
+- French (B1+)  
 :::
+:::  
 
 
-
+:::{.page-break}
+:::
+## Volunteering
 ::: {.print-only}
-## References {.unnumbered .unlisted}
-Available upon request
+***
 :::
+
+**Co-founder and Vice President**[*03/2023 --- 05/2024*]{.cvdate}  
+*Queen Margaret University, Edinburgh* 
+
+**German Voluntary Service “weltwärts” -- Eine Welt Netz NRW**[*08/2018 --- 08/2019*]{.cvdate}  
+*Volunteer at Stepping Stones International in Mochudi, Botswana* 
+
+**Taekwon-Do Coach (Children & Adults)**[*01/2016 --- 09/2020*]{.cvdate}  
+*Taekwon-Do Vach* 
+
+**Volunteer -- Congregation of St. Matthews Church**[*10/2015 --- 02/2016*]{.cvdate}  
+*Fürth/Vach* 
+
+
+### Achievements  
+
+Best Newcomer Award  
+QMU Running & Cycling  
+
+School Award for Exceptional Engagement  
+
+
+### Certifications  
+
+PIL (ABC) Training Certificate  
+Laboratory Animal Procedures (ASPA)  
+
+Full clean EU driving license  
+
+### Extracurricular Interests  
+
+Taekwon-Do  
+Cycling and running  
+Saxophone  
+  
+
+## Employment History
+::: {.print-only}
+***
+:::
+
+**Games Master**[*01/2023 --- 02/2025*]{.cvdate}  
+*Escape Reality Ltd., Scotland* 
+
+**Events Usher -- Open Days**[*09/2021 --- 10/2023*]{.cvdate}  
+*Queen Margaret University, Edinburgh* 
+
+**Games Master and Social Media Manager**[*11/2021 --- 11/2022*]{.cvdate}  
+*Padlox Escape Rooms, Edinburgh* 
+
+**Administrative Assistant**[*06/2021 --- 08/2021*]{.cvdate}  
+*Covid-19 Vaccination Centre -- Arbeitsgemeinschaft Notfallmedizin Fürth e. V.* 
+
+**Logistics Assistant**[*07/2020 --- 09/2020*]{.cvdate}  
+*IKEA Germany, Fürth* 
+
+**Kitchen Porter -- Michelin-star Restaurant**[*03/2020 --- 04/2020*]{.cvdate}  
+*„L’impertinent“ Biarritz, France* -- Returned to Germany due to Covid-19 
+
+**Retail Assistant**[*05/2017 --- 09/2017*]{.cvdate}  
+*E-Center EDEKA Schuler, Fürth* 
+
+**Intern at Radio station -- “Hit Radio N1”**[*07/2015*]{.cvdate}  
+*Funkhaus Nürnberg*  
+
+
+::: {.print-only style="margin-top: 2em;"}
+  
+**References**  
+Available upon request.
+:::
+
+
+
+::: {.content-visible when-profile="german"}
+
+::: {.print-only style="text-align: center; font-size: 14pt; font-weight: bold;"}
+[Mail](mailto:koni.boehm@gmail.com) | 
+[LinkedIn](https://www.linkedin.com/in/konstantindb/) | 
+[GitHub](https://github.com/konstantindab)
+:::
+
+::: {.print-only style="text-align: center"}
+MSc Brain Sciences Absolvent mit einem Bachelorabschluss in Psychologie (First-Class Honours). Versiert in quantitativer und qualitativer Datenanalyse. Erfahren in klinischer und akademischer Forschung. Starke Kommunikationsfähigkeiten und Interesse daran, wissenschaftliche Erkenntnisse mit praktischen Anwendungen zu verbinden.
+:::
+
+## Ausbildung
+::: {.print-only}
+***
+:::
+
+**MSc Brain Sciences**[09/2024 --- 09/2025]{.cvdate}  
+*University of Glasgow* 
+
+**BSc (Hons) Psychologie, First-Class Honours**[09/2020 --- 07/2024]{.cvdate}  
+*Queen Margaret University, Edinburgh* 
+
+**Abitur (Allgemeine Hochschulreife)**[09/2010 --- 07/2018]{.cvdate}  
+*Helene-Lange-Gymnasium Fürth* 
+
+## Forschungserfahrung
+::: {.print-only}
+***
+:::
+
+**MSc Dissertation**[*04/2025 --- 08/2025*]{.cvdate}  
+*Longitudinal Tracking of Retrosplenial Cortex Neurons During Contextual Fear Retrieval  
+in APP^NL-G-F^ Mice Treated with ENT-A061* 
+
+**Studentische Hilfskraft -- Toy Box Diversity Lab**[*09/2023 --- 07/2024*]{.cvdate}  
+*Queen Margaret University, Edinburgh* 
+
+**BSc Dissertation**[*10/2023 --- 04/2024*]{.cvdate}  
+*The Power of Purposeful Thinking: Object Function and its Mnemonic Consequences* 
+
+**Wissenschaftliche Hilfskraft -- Careena Center for Health**[*07/2023 --- 08/2023*]{.cvdate}  
+*Gaborone, Botswana* 
+
+## Fähigkeiten
+::: {.print-only}
+***
+:::
+
+:::{.container}
+:::{.column}
+### Technische Fähigkeiten:  
+- Datenbereinigung und Visualisierung  
+- Statistische Modellierung  
+- Hochleistungsrechnen  
+- Tools für maschinelles Lernen  
+- Qualitative Analyse  
+- R und SPSS/JASP (Fortgeschritten)  
+- Python und Excel (Mittelstufe)  
+- MATLAB, HTML und CSS (Einsteiger)  
+
+### Kompetenzen und Stärken:  
+- Kritisches Denken  
+- Kommunikation  
+- Zeitmanagement  
+- Interkulturelle Kompetenz  
+- Anpassungsfähigkeit  
+:::
+
+:::{.column}
+### Sprachen:  
+- Englisch (Bilingual)  
+- Deutsch (Muttersprache)  
+- Französisch (B1+)  
+:::
+:::  
+
+
+:::{.page-break}
+:::
+## Ehrenamt
+::: {.print-only}
+***
+:::
+
+**Mitbegründer und Vizepräsident**[*03/2023 --- 05/2024*]{.cvdate}  
+*Queen Margaret University, Edinburgh* 
+
+**Freiwilligendienst „weltwärts“ -- Eine Welt Netz NRW**[*08/2018 --- 08/2019*]{.cvdate}  
+*Freiwilliger bei Stepping Stones International in Mochudi, Botswana* 
+
+**Taekwon-Do Trainer (Kinder & Erwachsene)**[*01/2016 --- 09/2020*]{.cvdate}  
+*Taekwon-Do Vach* 
+
+**Freiwilliger -- Kirchengemeinde St. Matthäus**[*10/2015 --- 02/2016*]{.cvdate}  
+*Fürth/Vach* 
+
+
+### Auszeichnungen  
+
+Best Newcomer Award  
+QMU Running & Cycling  
+
+Schulpreis für außergewöhnliches Engagement  
+
+
+### Zertifikate  
+
+PIL (ABC) Trainingszertifikat  
+Laboratory Animal Procedures (ASPA)  
+
+EU-Führerschein (unbeschränkt, sauber)  
+
+### Außerschulische Interessen  
+
+Taekwon-Do  
+Radfahren und Laufen  
+Saxophon  
+  
+
+## Berufserfahrung
+::: {.print-only}
+***
+:::
+
+**Games Master**[*01/2023 --- 02/2025*]{.cvdate}  
+*Escape Reality Ltd., Schottland* 
+
+**Eventhelfer -- Informationstage**[*09/2021 --- 10/2023*]{.cvdate}  
+*Queen Margaret University, Edinburgh* 
+
+**Games Master und Social Media Manager**[*11/2021 --- 11/2022*]{.cvdate}  
+*Padlox Escape Rooms, Edinburgh* 
+
+**Verwaltungsassistent**[*06/2021 --- 08/2021*]{.cvdate}  
+*Covid-19 Impfzentrum -- Arbeitsgemeinschaft Notfallmedizin Fürth e. V.* 
+
+**Logistikassistent**[*07/2020 --- 09/2020*]{.cvdate}  
+*IKEA Deutschland, Fürth* 
+
+**Küchenhilfe -- Michelin-Stern Restaurant**[*03/2020 --- 04/2020*]{.cvdate}  
+*„L’impertinent“ Biarritz, Frankreich* -- Rückkehr nach Deutschland aufgrund von Covid-19 
+
+**Verkäufer im Einzelhandel**[*05/2017 --- 09/2017*]{.cvdate}  
+*E-Center EDEKA Schuler, Fürth* 
+
+**Praktikant bei Radiosender -- “Hit Radio N1”**[*07/2015*]{.cvdate}  
+*Funkhaus Nürnberg*  
+
+
+::: {.print-only style="margin-top: 2em;"}
+  
+**Referenzen**  
+Auf Anfrage erhältlich
+:::
+:::
+
+
