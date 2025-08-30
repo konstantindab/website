@@ -10,12 +10,12 @@ execute:
 
 website:
   title: "Konstantin Böhm"
-  site-url: https://konstantindab.github.io/website/de
+  site-url: https://konstantindab.github.io/en
   description: "Konstantin Böhm's Website"
   open-graph: true
   favicon: images/profilesmall.png
 
-  repo-url: https://github.com/konstantindab/website/
+  repo-url: https://github.com/konstantindab/en
   repo-actions: [edit, source, issue]
 
   navbar:
